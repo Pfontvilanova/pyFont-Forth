@@ -23,7 +23,7 @@ Uso del Módulo Forth en un Programa Python
 A continuación se muestra un ejemplo de cómo podrías usar el módulo Forth dentro de un programa Python:
 
 
-example.py
+ejemplo.py
 
 Conclusión
 
