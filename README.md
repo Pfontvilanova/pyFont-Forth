@@ -1,16 +1,9 @@
 # FontpyForth
 
-Python forth directamente desde python
-Para crear una versión de Forth que se pueda usar como un módulo o una biblioteca de Python, puedes implementar un intérprete de Forth en Python. Esto te permitirá ejecutar palabras de Forth directamente desde un programa Python. A continuación se presenta un diseño básico de cómo podría lograrse esto.
-
-Diseño del Intérprete de Forth en Python
-
-Intérprete de Forth en Python: Un intérprete básico de Forth escrito en Python.
-Integración con Python: Una clase o función en Python que permita ejecutar palabras de Forth desde el código Python.
-Implementación
+Forth directamente desde python.
+Para crear una versión de Forth que se pueda usar como un módulo o una biblioteca de Python, vamos a implementar un intérprete de Forth en Python. Esto te permitirá ejecutar palabras de Forth directamente desde un programa Python. A continuación se presenta un diseño básico de cómo podría lograrse esto.
 
 1. Intérprete de Forth en Python
-
 
 forth_interpreter.py
 
